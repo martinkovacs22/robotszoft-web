@@ -1,0 +1,3 @@
+gh secret set FTP_SERVER --body "robotszoft.hu"
+gh secret set FTP_USERNAME --body"martin"
+gh secret set FTP_PASSWORD --body "mrtLNX2025!"
