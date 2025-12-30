@@ -1,0 +1,15 @@
+{
+    "name": "martin-dev/robotszoft_web",
+    "autoload": {
+        "psr-4": {
+            "MartinDev\\RobotszoftWeb\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Martin",
+            "email": "martinkovacs22@gmail.com"
+        }
+    ],
+    "require": {}
+}
