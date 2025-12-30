@@ -17,4 +17,4 @@ jobs:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          server-dir: /  # Ide írd az FTP mappát (pl. /public_html/), ha nem a főbe akarod
+          server-dir: /web/  # Ide írd az FTP mappát (pl. /public_html/), ha nem a főbe akarod
